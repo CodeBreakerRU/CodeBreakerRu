@@ -2,12 +2,12 @@
 
 Hey! My Alias is [CodeBreakerRu] and :heart: with Linux, GCP, AWS and Reverse Engineering.
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=codebreakerru&show_icons=true&count_private=true)
 
-#### Contacts
 
-Home: [rileyghost.com](http://rileyghost.com)
+#### Contact
 
 Twitter: [@CodeBreakerRu](https://twitter.com/CodeBreakerRu)
 
-Telegram: [@oneiilk2](https://t.me/oneiilk2)
+Telegram: [@oneiilk2](https://t.me/codebreakerru)
 
