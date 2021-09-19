@@ -11,5 +11,5 @@ Hey! My Alias is [CodeBreakerRu] and :heart: with Linux, GCP, AWS and Reverse En
 #### контакт
 Twitter: [@CodeBreakerRu](https://twitter.com/CodeBreakerRu)
 
-Telegram: [@oneiilk2](https://t.me/codebreakerru)
+Telegram: [@codebreakerru](https://t.me/codebreakerru)
 
