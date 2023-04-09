@@ -29,5 +29,3 @@ Hey! My Alias is [CodeBreakerRu] and :heart: Linux, GIT, Terraform, Jenkins, Kub
 #### контакт
 Twitter: [@CodeBreakerRu](https://twitter.com/CodeBreakerRu)
 
-Telegram: [@codebreakerru](https://t.me/codebreakerru)
-
