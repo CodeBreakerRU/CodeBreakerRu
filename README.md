@@ -1,7 +1,7 @@
 ### Hi There
 
 
-### ⚙️ &nbsp;GitHub Stats
+## ⚙️ &nbsp;GitHub Stats
 
 <div align="center">
     <a href="https://github.com/CodeBreakerRU">
@@ -17,7 +17,7 @@
 
 
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
   
 <div align="center">
 
@@ -26,7 +26,7 @@
 </div>
 </a>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
@@ -54,3 +54,8 @@ Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&
 Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
+
+
+## 🌐Socials
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CodeBreakerRU) 
+
