@@ -1,6 +1,18 @@
-### Hi There
+# Hello Everyone, Welcome to my profile.
 
+Sysadmin, Security & Performance Optimization, Web & SEO. I am known under certain pseudonyms.
 
+## About Me
+
+I am a dedicated System Administrator with over years of experience in managing servers, ensuring their security and optimizing their performance. I have a keen interest in Web and SEO, and I am always looking for ways to improve website performance and increase online visibility.
+
+## Skills
+<ul><li>Server Administration (Linux/Windows) </li>
+<li>Cloud Computing</li>
+<li>Network Security</li></li></li>
+<li>Performance Optimization</li></li>
+<li>Website Development</li>
+<li>SEO Optimization</li></ul>
 ## ⚙️ &nbsp;GitHub Stats
 
 <div align="center">
