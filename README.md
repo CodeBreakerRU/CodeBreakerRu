@@ -16,7 +16,8 @@ I am a dedicated System Administrator with over years of experience in managing 
 <li>Performance Optimization</li>
 <li>Website Development</li>
 <li>SEO Optimization</li></ul>
-## ⚙️ &nbsp;GitHub Stats
+
+## ⚙️ GitHub Stats
 
 <div align="center">
     <a href="https://github.com/CodeBreakerRU">
