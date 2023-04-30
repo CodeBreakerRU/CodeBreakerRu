@@ -9,8 +9,11 @@ I am a dedicated System Administrator with over years of experience in managing 
 ## Skills
 <ul><li>Server Administration (Linux/Windows) </li>
 <li>Cloud Computing</li>
-<li>Network Security</li></li></li>
-<li>Performance Optimization</li></li>
+<li>Virtualization and Containers</li>
+<li>Network Security</li>
+<li>VOIP Server / Device Management </li>
+<li>Enterprise Mail Server Management </li>
+<li>Performance Optimization</li>
 <li>Website Development</li>
 <li>SEO Optimization</li></ul>
 ## ⚙️ &nbsp;GitHub Stats
