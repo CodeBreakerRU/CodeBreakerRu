@@ -15,8 +15,14 @@ I am a dedicated System Administrator with over years of experience in managing 
 <li>Enterprise Mail Server Management </li>
 <li>Performance Optimization</li>
 <li>Website Development</li>
+<li>Clean Hacked/ Malware affected Websites and DBs</li>
 <li>SEO Optimization</li></ul>
 
+## Hobbies
+<ul><li>Studying Linux </li>
+<li>Testing FOSS Sofwares / Scripts </li>
+<li>Game Server Hosting </li></ul>
+    
 ## ⚙️ GitHub Stats
 
 <div align="center">
