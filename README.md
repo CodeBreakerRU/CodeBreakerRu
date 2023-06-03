@@ -15,7 +15,7 @@ I am a dedicated System Administrator with over years of experience in managing 
 <li>Enterprise Mail Server Management </li>
 <li>Performance Optimization</li>
 <li>Website Development</li>
-<li>Clean Hacked/ Malware affected Websites and DBs</li>
+<li>Clean Hacked/ Malware infected Websites and DBs</li>
 <li>SEO Optimization</li></ul>
 
 ## Hobbies
