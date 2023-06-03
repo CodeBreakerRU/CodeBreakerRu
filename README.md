@@ -20,7 +20,7 @@ I am a dedicated System Administrator with over years of experience in managing 
 
 ## Hobbies
 <ul><li>Studying Linux </li>
-<li>Testing FOSS Sofwares / Scripts </li>
+<li>Testing FOSS Softwares / Scripts </li>
 <li>Game Server Hosting </li></ul>
     
 ## ⚙️ GitHub Stats
