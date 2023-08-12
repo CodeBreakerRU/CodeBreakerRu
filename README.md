@@ -20,7 +20,8 @@ I am a dedicated System Administrator with over years of experience in managing 
 <li>SEO Optimization</li></ul>
 
 ## Hobbies
-<ul><li>Studying Linux </li>
+<ul><li>Studying Advanced Linux </li>
+<li>Practicing SOC analysis and threat hunting </li>
 <li>Testing FOSS Softwares / Scripts </li>
 <li>Game Server Hosting </li></ul>
     
