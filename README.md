@@ -11,6 +11,7 @@ I am a dedicated System Administrator with over years of experience in managing 
 <li>Cloud Computing</li>
 <li>Virtualization and Containers</li>
 <li>Network Security</li>
+<li>Identify, Protect, Detect, Respond and Recover </li>
 <li>VOIP Server / Device Management </li>
 <li>Enterprise Mail Server Management </li>
 <li>Performance Optimization</li>
