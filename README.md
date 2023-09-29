@@ -30,10 +30,7 @@ I am a dedicated IT Infrastructure Administrator with over years of experience i
 <div align="center">
   <a> 
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=codebreakerru&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /> <img  height="180em" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" />
-        <br /> 
-        <img height="180em"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=codebreakerru&theme=buefy-dark&hide_border=true&background=1a1b27" />
+            src="https://github-readme-stats.vercel.app/api?username=codebreakerru&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /> 
         <img height="180em"
             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codebreakerru&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight" />
         <br />
