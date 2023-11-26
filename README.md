@@ -1,10 +1,10 @@
 # Hello Everyone, Welcome to my profile.
 
-IT Infrastructure Management, Security & Performance Optimization, Web & SEO. I am known under certain pseudonyms.
+SysAdmin, Security & Performance Optimization, Web & SEO. I am known under certain pseudonyms.
 
 ## About Me
 
-I am a dedicated IT Infrastructure Administrator with over years of experience in managing servers, ensuring their security, and optimizing their performance. I have a keen interest in Web Development and SEO, and I am always looking for ways to improve website performance and increase online visibility.
+I am a dedicated SysAdmin with over years of experience in managing servers, ensuring their security, and optimizing their performance. I have a keen interest in Web Development and SEO, and I am always looking for ways to improve website performance and increase online visibility.
 
 ## Skills
 <ul><li>Server Administration (Linux/Windows) </li>
