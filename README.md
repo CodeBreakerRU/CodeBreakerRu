@@ -11,7 +11,7 @@ I am a dedicated SysAdmin with over years of experience in managing servers, ens
 <li>Cloud Computing</li>
 <li>Virtualization and Containers</li>
 <li>Network Security</li>
-<li>Identify, Protect, Detect, Respond, and Recover </li>
+<li>Identify, Protect, Detect, Respond, and Recover Vulnerabilities and Threats </li>
 <li>VOIP Server / Device Management </li>
 <li>Enterprise Mail Server Management </li>
 <li>Performance Optimization</li>
